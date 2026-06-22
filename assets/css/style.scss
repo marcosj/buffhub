@@ -1,0 +1,16 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Hide the overlapping floating footer entirely to clean up the view
+#downloads, 
+.user-profile,
+footer {
+    display: none !important;
+}
+
+// Ensure the main page content takes up clean, readable spacing
+#main_content {
+    margin-right: 0 !important;
+    width: 100% !important;
+}
