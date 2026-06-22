@@ -43,32 +43,16 @@ For detailed, step-by-step instructions and our standard review template, please
 *Disclaimer: This is an entirely student-run, unofficial repository. It is not affiliated with, endorsed by, or managed by the University of Colorado Boulder or Coursera.*
 
 <style>
-  /* Smash Cayman's jumbo header down to a sleek, modern banner */
-  .page-header {
-    padding: 2rem 1rem !important; /* Trims massive vertical padding */
-    background-image: linear-gradient(120deg, #155799, #2ebe96) !important;
+  /* Force Merlot to utilize the entire screen width */
+  header, 
+  #main_content, 
+  .wrapper {
+    max-width: 95% !important;
+    width: 95% !important;
   }
   
-  .project-name {
-    font-size: 2.5rem !important; /* Scales down the massive text */
-    margin-top: 0 !important;
-    margin-bottom: 0.2rem !important;
-  }
-  
-  .project-tagline {
-    font-size: 1rem !important;
-    margin-bottom: 0 !important;
-    opacity: 0.85;
-  }
-
-  /* Completely hide the default GitHub button rows to save space */
-  .page-header .btn {
-    display: none !important;
-  }
-
-  /* Maximize main content screen real estate */
-  .main-content {
-    max-width: 100% !important;
-    padding: 2rem !important;
+  /* Give lists a bit more breathing room on wide layouts */
+  ul {
+    padding-left: 20px;
   }
 </style>
