@@ -41,3 +41,19 @@ For detailed, step-by-step instructions and our standard review template, please
 
 ---
 *Disclaimer: This is an entirely student-run, unofficial repository. It is not affiliated with, endorsed by, or managed by the University of Colorado Boulder or Coursera.*
+
+<style>
+  /* Clean up Leap Day layout components to maximize readability */
+  #downloads,
+  .sidebar .author,
+  footer {
+    display: none !important;
+  }
+
+  /* Ensure the main course content takes up full screen width smoothly */
+  #main_content {
+    margin-right: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+</style>
