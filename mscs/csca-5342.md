@@ -1,0 +1,35 @@
+# Course Code & Name
+
+* **Credits:** X
+* **Primary Programming Language(s):** 
+* **Prerequisites / Background Tip:** 
+
+---
+
+## 📊 Course Logistics & Metrics
+
+| Metric | Details / Community Average |
+| :--- | :--- |
+| **Coursera Estimated Hours** | X hours/week |
+| **Student Real-World Hours** | X hours/week |
+| **Course Assessment Type** | Auto-graded Quizzes / Peer-Reviewed Projects / Coding Labs |
+| **Proctored Exams?** | Yes / No |
+| **Perceived Difficulty** | X / 5 |
+
+---
+
+## 💬 Student Reviews & Deep Dives
+
+> ### Review by Anonymous | Semester & Year
+>
+> * **Time Commitment:** X hours/week
+> * **Difficulty:** X/5
+>
+> #### General Feedback
+> [Your review text goes here...]
+>
+> #### Assessment Details
+> [Provide specific insight into how exams or peer-reviewed assignments work safely...]
+
+---
+👉 [Back to Program Directory](README.md) | [Back to Main Hub](../README.md)
