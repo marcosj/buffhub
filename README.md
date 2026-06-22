@@ -43,17 +43,32 @@ For detailed, step-by-step instructions and our standard review template, please
 *Disclaimer: This is an entirely student-run, unofficial repository. It is not affiliated with, endorsed by, or managed by the University of Colorado Boulder or Coursera.*
 
 <style>
-  /* Clean up Leap Day layout components to maximize readability */
-  #downloads,
-  .sidebar .author,
-  footer {
+  /* Smash Cayman's jumbo header down to a sleek, modern banner */
+  .page-header {
+    padding: 2rem 1rem !important; /* Trims massive vertical padding */
+    background-image: linear-gradient(120deg, #155799, #2ebe96) !important;
+  }
+  
+  .project-name {
+    font-size: 2.5rem !important; /* Scales down the massive text */
+    margin-top: 0 !important;
+    margin-bottom: 0.2rem !important;
+  }
+  
+  .project-tagline {
+    font-size: 1rem !important;
+    margin-bottom: 0 !important;
+    opacity: 0.85;
+  }
+
+  /* Completely hide the default GitHub button rows to save space */
+  .page-header .btn {
     display: none !important;
   }
 
-  /* Ensure the main course content takes up full screen width smoothly */
-  #main_content {
-    margin-right: 0 !important;
-    width: 100% !important;
+  /* Maximize main content screen real estate */
+  .main-content {
     max-width: 100% !important;
+    padding: 2rem !important;
   }
 </style>
