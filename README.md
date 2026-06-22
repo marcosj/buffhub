@@ -41,18 +41,3 @@ For detailed, step-by-step instructions and our standard review template, please
 
 ---
 *Disclaimer: This is an entirely student-run, unofficial repository. It is not affiliated with, endorsed by, or managed by the University of Colorado Boulder or Coursera.*
-
-<script>
-  // Force break out of Merlot's hardcoded 640px viewport lock
-  document.querySelector('meta[name="viewport"]').setAttribute('content', 'width=device-width, initial-scale=1');
-</script>
-
-<style>
-  /* Force Merlot's internal structural containers to fill the screen */
-  header .wrapper,
-  #main_content,
-  .wrapper {
-    max-width: 95% !important;
-    width: 95% !important;
-  }
-</style>
