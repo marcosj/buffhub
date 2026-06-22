@@ -7,9 +7,9 @@ Welcome to the MSAI course directory. Click on any course code below to read or 
 Students must complete both Pathway specializations. Earning a B or better in all courses of a single pathway qualifies you for performance-based admission.
 
 ### 📉 Foundations of Probability and Statistics Pathway
-*   [stat-5000](../stat-5000.md): Probability & Statistics Foundations *(In Development)*
-*   [stat-5010](../stat-5010.md): Statistical Inference *(In Development)*
-*   [stat-5020](../stat-5020.md): Advanced Statistical Modeling *(In Development)*
+*   [stat-5000](../msds/stat-5000.md): Probability & Statistics Foundations *(In Development)*
+*   [stat-5010](../msds/stat-5010.md): Statistical Inference *(In Development)*
+*   [stat-5020](../msds/stat-5020.md): Advanced Statistical Modeling *(In Development)*
 
 ### 🐍 Machine Learning Pathway
 *   [csca-5622](../mscs/csca-5622.md): Introduction to Machine Learning: Supervised Learning *(Shared with MSCS / MSDS)*
